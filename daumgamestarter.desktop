@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Daum Game Starter
+Exec=python3 /home/kang/.local/share/fakeDaumgamestarter.py %u
+Type=Application
+Terminal=true
+X-KeepTerminal=true
+MimeType=x-scheme-handler/daumgamestarter;
