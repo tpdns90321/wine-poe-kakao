@@ -1,7 +1,8 @@
 [Desktop Entry]
 Name=Daum Game Starter
-Exec=python3 /home/kang/.local/share/fakeDaumgamestarter.py %u
+Exec=python3 /home/$USER/.local/share/fakeDaumgameStarter.py %u
 Type=Application
 Terminal=true
 X-KeepTerminal=true
+NoDisplay=true
 MimeType=x-scheme-handler/daumgamestarter;
